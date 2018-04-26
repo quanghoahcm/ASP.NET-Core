@@ -1,0 +1,23 @@
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.deps.json
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.runtimeconfig.json
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.runtimeconfig.dev.json
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.dll
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.pdb
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.csproj.CoreCompileInputs.cache
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.AssemblyInfoInputs.cache
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.AssemblyInfo.cs
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.dll
+c:\users\lquanghoa\documents\visual studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.pdb
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.deps.json
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.runtimeconfig.json
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.runtimeconfig.dev.json
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.dll
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.pdb
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.csprojResolveAssemblyReference.cache
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.csproj.CoreCompileInputs.cache
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.AssemblyInfoInputs.cache
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.AssemblyInfo.cs
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.dll
+D:\quanghoa-tma\github\ASP.NET-Core\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.pdb
