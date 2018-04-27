@@ -1,0 +1,11 @@
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.deps.json
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.runtimeconfig.json
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.runtimeconfig.dev.json
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.dll
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.pdb
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.csprojResolveAssemblyReference.cache
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.csproj.CoreCompileInputs.cache
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.AssemblyInfoInputs.cache
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.AssemblyInfo.cs
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.dll
+D:\quanghoa-tma\From Github\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.pdb

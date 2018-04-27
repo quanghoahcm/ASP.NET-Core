@@ -1,0 +1,11 @@
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\obj\Debug\netcoreapp2.0\CrudCoreMVC.csprojResolveAssemblyReference.cache
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\obj\Debug\netcoreapp2.0\CrudCoreMVC.csproj.CoreCompileInputs.cache
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\obj\Debug\netcoreapp2.0\CrudCoreMVC.AssemblyInfoInputs.cache
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\obj\Debug\netcoreapp2.0\CrudCoreMVC.AssemblyInfo.cs
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\quanghoa-tma\From Github\CRUD-Core-MVC\CrudCoreMVC\obj\Debug\netcoreapp2.0\WebApplication1.pdb
