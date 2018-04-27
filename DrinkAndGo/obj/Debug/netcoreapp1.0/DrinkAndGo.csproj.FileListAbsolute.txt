@@ -1,0 +1,11 @@
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.deps.json
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.runtimeconfig.json
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.runtimeconfig.dev.json
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.dll
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\bin\Debug\netcoreapp1.0\DrinkAndGo.pdb
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.csprojResolveAssemblyReference.cache
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.csproj.CoreCompileInputs.cache
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.AssemblyInfoInputs.cache
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.AssemblyInfo.cs
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.dll
+D:\quanghoa-tma\From Github\DrinkAndGo\src\DrinkAndGo\obj\Debug\netcoreapp1.0\DrinkAndGo.pdb
